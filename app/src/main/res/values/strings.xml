@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AOne_6</string>
+    <string name="Click_Hold">Click Hold</string>
+    <string name="Save">Save</string>
+    <string name="Id">Id</string>
+    <string name="Book_Name">Book Name</string>
+    <string name="Price">Price</string>
+    <string name="Add_Book">Add Book</string>
+    <string name="Books_Library">Books Library</string>
+</resources>
